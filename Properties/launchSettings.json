@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DesafioProjetoHospedagem": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
